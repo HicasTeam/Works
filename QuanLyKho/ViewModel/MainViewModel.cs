@@ -20,7 +20,7 @@ namespace QuanLyKho.ViewModel
         public ICommand InputCommand { get; set; }
         public ICommand OutputCommand { get; set; }
 
-        // mọi thứ xử lý sẽ nằm trong này
+        //Test GIT
         public MainViewModel()
         {
             LoadedWindowCommand = new RelayCommand<object>((p) => { return true; }, (p) => {
