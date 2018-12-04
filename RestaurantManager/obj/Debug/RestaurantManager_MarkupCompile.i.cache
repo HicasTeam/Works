@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Works\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\
+D:\Works\QuanLyKho\Works\RestaurantManager\obj\Debug\
 RestaurantManager
 none
 false
 DEBUG;TRACE
-D:\Works\RestaurantManager\RestaurantManager\RestaurantManager\App.xaml
-2-55191833
+D:\Works\QuanLyKho\Works\RestaurantManager\App.xaml
+51748611863
 
-12-836032109
-131569487696
-MainWindow.xaml;Views\LoginView.xaml;
+159786966
+75-796439084
+MainWindow.xaml;Views\EmployeeView.xaml;Views\KitchenView.xaml;Views\LoginView.xaml;Views\StockListView.xaml;
 
-False
+True
 
